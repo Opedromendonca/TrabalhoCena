@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e0f6e70f-fc6b-41f2-9afe-304c9004ef43)# TrabalhoCena
+# TrabalhoCena
 Trabalho cena
 
 Usando matplotlib e gerando via random alguns dos items.
